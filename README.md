@@ -2,10 +2,7 @@
 # Sample grid løsning 
 ![](https://github.com/rishoej/src/blob/master/gifs/sample-grid.gif)
 
-Find min løsning i her:</br>
-<b>index.html</br>
-js/main.js </br>
-css/main.css</b></br>
+Min løsning på opgaven.
 
 # Demo
 https://cdn.rawgit.com/rishoej/sample-grid/master/index.html
