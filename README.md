@@ -1,4 +1,21 @@
-#Fork this project and send back a pull request.
+
+# Sample grid løsning 
+![](https://github.com/rishoej/src/blob/master/gifs/sample-grid.gif)
+
+Find min løsning i her:</br>
+<b>index.html</br>
+js/main.js </br>
+css/main.css</b></br>
+
+# Demo
+https://cdn.rawgit.com/rishoej/sample-grid/master/index.html
+
+# Frameworks
+- jQuery
+- Bootstrap 4
+
+
+# Fork this project and send back a pull request.
 
 Create simple product grid by fetching and displaying
 the data found here http://www.unisport.dk/api/sample/
@@ -11,16 +28,3 @@ https://help.github.com/articles/fork-a-repo/
 
 How to do a pull-request
 https://help.github.com/articles/using-pull-requests/
-
-#Løsning 
-Find min løsning i her:</br>
-<b>index.html</br>
-js/main.js </br>
-css/main.css</b></br>
-
-#Demo
-https://cdn.rawgit.com/rishoej/sample-grid/master/index.html
-
-#Frameworks
-- jQuery
-- Bootstrap 4
